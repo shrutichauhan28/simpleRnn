@@ -1,5 +1,4 @@
 tensorflow
-tensorflow keras
 pandas 
 numpy 
 scikit-learn
